@@ -13,5 +13,4 @@ An ongoing full-stack web application built for learning and testing modern web 
 * **Node.js** & **Express**
 * **Prisma ORM** (Database Management)
 * **Redis** (Caching / Session management)
-
 ---
